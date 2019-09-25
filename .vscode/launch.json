@@ -9,7 +9,7 @@
             "name": "Debug (Launch)-Program<A04 - Employee>",
             "request": "launch",
             "mainClass": "edu.sbcc.cs105.Program",            
-            "console": "integratedTerminal",
+            "console":"externalTerminal",
             "stopOnEntry": false
             
         }
